@@ -1,0 +1,10 @@
+D:\Web development\OnlineShop\OnlineShop\Models\bin\Debug\Models.dll.config
+D:\Web development\OnlineShop\OnlineShop\Models\bin\Debug\Models.dll
+D:\Web development\OnlineShop\OnlineShop\Models\bin\Debug\Models.pdb
+D:\Web development\OnlineShop\OnlineShop\Models\bin\Debug\EntityFramework.dll
+D:\Web development\OnlineShop\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Web development\OnlineShop\OnlineShop\Models\bin\Debug\EntityFramework.xml
+D:\Web development\OnlineShop\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Web development\OnlineShop\OnlineShop\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Web development\OnlineShop\OnlineShop\Models\obj\Debug\Models.dll
+D:\Web development\OnlineShop\OnlineShop\Models\obj\Debug\Models.pdb
